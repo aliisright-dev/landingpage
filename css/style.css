@@ -103,7 +103,8 @@ body {
 	.form-group {
 		width: 60%;
 		margin: auto;
-		margin-bottom: 10spx;
+		padding-bottom: 10px;
+		background-color: rgba(0,0,0,0.5);
 	}
 }
 
